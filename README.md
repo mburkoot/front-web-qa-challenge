@@ -42,7 +42,7 @@ Foram implementados **7 cenários automatizados**, distribuídos entre gerenciam
 | FRM-01 | Cadastro válido | Validar confirmação após submissão de dados válidos |
 | FRM-02 | Campos obrigatórios vazios | Validar mensagens de erro e rejeição de dados incompletos |
 | DYN-01 | Dropdown assíncrono | Validar carregamento e seleção de categoria |
-| A11Y-02 | Nomes acessíveis | Validar a identificação acessível de campos obrigatórios |
+| A11Y-01 | Nomes acessíveis | Validar a identificação acessível de campos obrigatórios |
 
 A seleção foi definida considerando impacto, prioridade, diversidade da cobertura e custo de manutenção.
 
