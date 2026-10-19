@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('A11Y-02 - Deve associar nomes acessíveis aos campos obrigatórios', async ({ page }) => {
+test('A11Y-01 - Deve validar os nomes acessíveis dos campos obrigatórios', async ({ page }) => {
   await page.goto('https://playwrightlab.github.io/');
 
   const campoNome = page.locator('#fullName');
