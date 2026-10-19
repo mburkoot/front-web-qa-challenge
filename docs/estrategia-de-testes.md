@@ -90,7 +90,7 @@ A estrutura foi mantida simples, evitando abstrações que não apresentassem be
 | FRM-01 | Cadastro com dados válidos | P0 |
 | FRM-02 | Validação de campos obrigatórios | P0 |
 | DYN-01 | Carregamento assíncrono de opções | P1 |
-| A11Y-02 | Validação de nomes acessíveis | P1 |
+| A11Y-01 | Validação de nomes acessíveis | P1 |
 
 ## 8. Navegadores e resoluções
 
